@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at **https://julianalvarez243.github.io/portfolio/**
 
-- 🌱 I’m currently study **"Desarrollo de software" and "Programacion web full stack"**
+- 🌱 I’m currently studying **"Desarrollo de software" and "Programacion web full stack"**
 
 - 📫 You can contact me via **julianalvarez0203@gmail.com**
 
